@@ -9,11 +9,11 @@ Projeto de uma calculadora de IMC simples.
 
 -> Este projeto é um módulo das classes React do B7Web. Neste projeto eu me concentro em praticar minha organização de pastas e o uso dos princípios do React.
 
-[x] Assets -> Pasta responsável por conter as imagens e ícones utilizados nos projetos.
-[x] Components -> Pasta contendo os componentes do projeto.
-[x] Hooks -> Contém meus hooks customizados que são usados ​​em home.
-[x] Pages -> Região que contém as páginas do projeto.
-[x] Styles -> Região que contém todos os estilos do projeto.
+[x] Assets -> Pasta responsável por conter as imagens e ícones utilizados nos projetos.<br/>
+[x] Components -> Pasta contendo os componentes do projeto.<br/>
+[x] Hooks -> Contém meus hooks customizados que são usados ​​em home.<br/>
+[x] Pages -> Região que contém as páginas do projeto.<br/>
+[x] Styles -> Região que contém todos os estilos do projeto.<br/>
 
 ![img](./README/IMC_desk_func.png)
 
@@ -23,8 +23,8 @@ Projeto de uma calculadora de IMC simples.
 
 ### Components: 
 
--> GridItem.tsx é responsável por modelar o elemento que descreve os estados imc. Ele recebe os dados de cada estado IMC através do item (que possui um tipo criado no hook useIMC.ts).
--> Header.tsx contém a estrutura do cabeçalho da página.
+-> GridItem.tsx é responsável por modelar o elemento que descreve os estados imc. Ele recebe os dados de cada estado IMC através do item (que possui um tipo criado no hook useIMC.ts).<br/>
+-> Header.tsx contém a estrutura do cabeçalho da página.<br/>
 
 ### Hooks: 
 
